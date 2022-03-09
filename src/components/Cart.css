@@ -1,0 +1,65 @@
+.cart-heading {
+    margin: 15px;
+}
+
+.cart-title {
+    font-size: 21px;
+    font-weight: bold;
+    padding-left: 32px;
+}
+
+.back-btn {
+    background: none;
+    border: none;
+    color: #069;
+    padding: 0px;
+    cursor: pointer;
+}
+
+.cart {
+    margin: 10px 20px;
+    height: 100px;
+    background-color: #7989e0;
+    border-radius: 5px;
+    color: white;
+}
+
+.item-number {
+    font-weight: bold;
+    font-size: 19px;
+    padding: 7px 15px;
+}
+
+.sub-element {
+    padding: 4px 35px;
+}
+
+.cost {
+    font-weight: bold;
+}
+
+.item-remove:hover {
+    color: tomato;
+}
+
+.item-remove {
+    margin-right: 8px;
+    float: right;
+    transform: translateY(-45px) scale(1.62);
+    padding: 0px;
+    background: none;
+    border: none;
+    padding: 0px;
+    cursor: pointer;
+    color: white;
+}
+
+.cn {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    font-size: 34px;
+}

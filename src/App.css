@@ -1,0 +1,60 @@
+body {
+  margin: 10px;
+}
+
+input {
+  font-size: 11px !important;
+}
+
+.MuiSvgIcon-root {
+  width: 16px !important;
+  height: 16px !important;
+}
+
+button {
+  font-size: 11px !important;
+}
+
+.cart-btn:hover {
+  background-color: #3f51b5;
+  color: white;
+}
+
+.cart-btn {
+  cursor: pointer;
+  border-radius: 4px;
+  padding: 6px 15px;
+}
+
+.head-table {
+  background-color: #3f51b5;
+  margin: 6px 6px;
+  padding: 12px;
+  font-size: 14px;
+  align-self: flex-start;
+  width: 550px;
+  color: #fff;
+  border-radius: 9px;
+}
+
+.table-style {
+  background-color: #3f51b5;
+  margin: 6px 6px;
+  padding: 12px;
+  border-radius: 9px;
+}
+
+#standard-basic-table-label {
+  color: white;
+  font-weight: 700;
+}
+
+input#standard-basic-table {
+  padding-top: 5px;
+  color: white;
+  font-weight: 300;
+}
+
+.MuiInput-underline {
+  border-bottom: 1px solid white;
+}
